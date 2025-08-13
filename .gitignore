@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+beta
 
 # Spyder project settings
 .spyderproject
@@ -205,3 +206,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Capstone Project
+notebooks/
+local_s3/
+
+models/
+
